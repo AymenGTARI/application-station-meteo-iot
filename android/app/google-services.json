@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804408771020",
+    "project_id": "stage-d-ete",
+    "storage_bucket": "stage-d-ete.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804408771020:android:16966169a991a5a5d8dd69",
+        "android_client_info": {
+          "package_name": "com.example.stageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD28v2mnzX8mYmFQ-u_dgIb6lI4sM-yt8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
