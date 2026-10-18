@@ -102,6 +102,8 @@ flutter run
 ```
 
 ## Screenshots
+<img width="430" height="867" alt="Capture d&#39;écran 2026-09-03 220022" src="https://github.com/user-attachments/assets/fa96476e-afcd-4e7a-aada-08a2a13cda34" />
+
 
 <img width="551" height="672" alt="Capture d&#39;écran 2026-09-20 204350" src="https://github.com/user-attachments/assets/38c5396c-b440-4415-98a2-2d7da3f47917" />
 
